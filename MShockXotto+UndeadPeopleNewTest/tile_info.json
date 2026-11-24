@@ -1,0 +1,233 @@
+[
+ {
+  "pixelscale": 1,
+  "width": 32,
+  "height": 32,
+  "zlevel_height": 0,
+  "iso": false,
+  "retract_dist_min": -1.0,
+  "retract_dist_max": 1.0
+ },
+ {
+  "normal_items.png": {}
+ },
+ {
+  "normal_monsters.png": {}
+ },
+ {
+  "normal_character.png": {}
+ },
+ {
+  "normal_stuff.png": {}
+ },
+ {
+  "normal_fields.png": {}
+ },
+ {
+  "normal_furniture.png": {}
+ },
+ {
+  "normal_terrain.png": {}
+ },
+ {
+  "normal_vehicle_parts.png": {}
+ },
+ {
+  "normal_offset.png": {
+   "sprite_offset_x": 0,
+   "sprite_offset_y": -16,
+   "sprite_width": 32,
+   "sprite_height": 32
+  }
+ },
+ {
+  "wide.png": {
+   "sprite_offset_x": -16,
+   "sprite_offset_y": -16,
+   "sprite_width": 64,
+   "sprite_height": 48
+  }
+ },
+ {
+  "large_stuff.png": {
+   "sprite_offset_x": -16,
+   "sprite_offset_y": -48,
+   "sprite_width": 64,
+   "sprite_height": 80
+  }
+ },
+ {
+  "large_terrain.png": {
+   "sprite_offset_x": -16,
+   "sprite_offset_y": -48,
+   "sprite_width": 64,
+   "sprite_height": 80
+  }
+ },
+ {
+  "huge.png": {
+   "sprite_offset_x": -48,
+   "sprite_offset_y": -48,
+   "sprite_width": 160,
+   "sprite_height": 128
+  }
+ },
+ {
+  "large_overlapping.png": {
+   "sprite_offset_x": -64,
+   "sprite_offset_y": -64,
+   "sprite_width": 160,
+   "sprite_height": 160
+  }
+ },
+ {
+  "huge_extra.png": {
+   "sprite_offset_x": -64,
+   "sprite_offset_y": -96,
+   "sprite_width": 128,
+   "sprite_height": 128
+  }
+ },
+ {
+  "tiles.png": {
+   "filler": true
+  }
+ },
+ {
+  "overmap.png": {
+   "filler": true
+  }
+ },
+ {
+  "overmap_tall.png": {
+   "sprite_offset_x": 0,
+   "sprite_offset_y": -16,
+   "sprite_width": 32,
+   "sprite_height": 48,
+   "filler": true
+  }
+ },
+ {
+  "small.png": {
+   "sprite_offset_x": 6,
+   "sprite_offset_y": 0,
+   "sprite_width": 20,
+   "sprite_height": 20,
+   "filler": true
+  }
+ },
+ {
+  "wide_ms.png": {
+   "sprite_offset_x": -16,
+   "sprite_offset_y": -16,
+   "sprite_width": 48,
+   "sprite_height": 48,
+   "filler": true
+  }
+ },
+ {
+  "widecenter.png": {
+   "sprite_offset_x": -8,
+   "sprite_offset_y": -16,
+   "sprite_width": 48,
+   "sprite_height": 48,
+   "filler": true
+  }
+ },
+ {
+  "tall.png": {
+   "sprite_offset_x": 0,
+   "sprite_offset_y": -16,
+   "sprite_width": 32,
+   "sprite_height": 48,
+   "filler": true
+  }
+ },
+ {
+  "taller.png": {
+   "sprite_offset_x": 0,
+   "sprite_offset_y": -32,
+   "sprite_width": 32,
+   "sprite_height": 64,
+   "filler": true
+  }
+ },
+ {
+  "large.png": {
+   "sprite_offset_x": -16,
+   "sprite_offset_y": -48,
+   "sprite_width": 64,
+   "sprite_height": 80,
+   "filler": true
+  }
+ },
+ {
+  "big.png": {
+   "sprite_offset_x": -48,
+   "sprite_offset_y": -32,
+   "sprite_width": 80,
+   "sprite_height": 64,
+   "filler": true
+  }
+ },
+ {
+  "huge_ms.png": {
+   "sprite_offset_x": -64,
+   "sprite_offset_y": -96,
+   "sprite_width": 128,
+   "sprite_height": 128,
+   "filler": true
+  }
+ },
+ {
+  "dcss.png": {
+   "filler": true
+  }
+ },
+ {
+  "dcssTall.png": {
+   "sprite_offset_x": 0,
+   "sprite_offset_y": -16,
+   "sprite_width": 32,
+   "sprite_height": 48,
+   "filler": true
+  }
+ },
+ {
+  "fillersmall.png": {
+   "sprite_offset_x": 0,
+   "sprite_offset_y": 0,
+   "sprite_width": 20,
+   "sprite_height": 20,
+   "filler": true
+  }
+ },
+ {
+  "fillerlarge.png": {
+   "sprite_offset_x": -16,
+   "sprite_offset_y": -32,
+   "sprite_width": 64,
+   "sprite_height": 64,
+   "filler": true
+  }
+ },
+ {
+  "fillernormal.png": {
+   "filler": true
+  }
+ },
+ {
+  "fillertall.png": {
+   "sprite_offset_x": 0,
+   "sprite_offset_y": -32,
+   "sprite_width": 32,
+   "sprite_height": 64,
+   "filler": true
+  }
+ },
+ {
+  "fallback.png": {
+   "fallback": true
+  }
+ }
+]

@@ -1,0 +1,1 @@
+{"id": ["vp_door", "vp_door_inboard"], "fg": ["9682_vp_door_0"], "rotates": true, "multitile": true, "additional_tiles": [{"id": "open", "fg": ["9683_vp_door_1"], "bg": []}, {"id": "broken", "fg": ["9670_vp_halfboard_cover_right_4"], "bg": ["9682_vp_door_0"]}], "bg": []}

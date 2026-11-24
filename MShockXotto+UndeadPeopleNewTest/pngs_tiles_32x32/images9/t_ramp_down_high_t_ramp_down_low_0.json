@@ -1,0 +1,1 @@
+{"id": ["t_ramp_down_high", "t_ramp_down_low"], "animated": true, "fg": [{"weight": 15, "sprite": "7948_t_ramp_down_high_0"}, {"weight": 15, "sprite": "7949_t_ramp_down_high_1"}, {"weight": 15, "sprite": "7950_t_ramp_down_high_2"}, {"weight": 15, "sprite": "7949_t_ramp_down_high_1"}], "bg": []}

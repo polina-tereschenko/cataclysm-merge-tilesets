@@ -1,0 +1,1 @@
+{"id": "meadow_end", "//": "Ideally the edges and corners would be less dense and directional but with the way the ids + lack of connect groups for overmap stuff that's not super viable rn", "fg": [{"weight": 25, "sprite": "10759_meadow_core_0"}, {"weight": 25, "sprite": "10760_meadow_core_1"}], "bg": []}

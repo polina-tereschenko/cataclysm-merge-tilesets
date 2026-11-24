@@ -1,0 +1,1 @@
+{"id": "vp_light_red", "fg": ["9931_vp_light_red_0", "9932_vp_light_red_1"], "rotates": true, "multitile": true, "additional_tiles": [{"id": "broken", "fg": ["9670_vp_halfboard_cover_right_4"], "bg": ["9931_vp_light_red_0", "9932_vp_light_red_1"]}], "bg": []}

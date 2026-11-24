@@ -1,0 +1,1 @@
+{"id": "vp_vehicle_scoop", "fg": ["21162_vp_vehicle_scoop_0"], "bg": ["11041_bg_car_0"], "rotates": true, "multitile": true, "additional_tiles": [{"id": "broken", "fg": ["21163_vp_vehicle_scoop_2"], "bg": ["11041_bg_car_0"]}]}

@@ -1,0 +1,1 @@
+{"id": "vp_seed_drill", "fg": ["9394_vp_seed_drill_0", "9393_vp_seed_drill_1", "9395_vp_seed_drill_2", "9396_vp_seed_drill_3"], "multitile": true, "additional_tiles": [{"id": "broken", "fg": ["9670_vp_halfboard_cover_right_4"], "bg": ["9394_vp_seed_drill_0", "9393_vp_seed_drill_1", "9395_vp_seed_drill_2", "9396_vp_seed_drill_3"]}], "bg": []}

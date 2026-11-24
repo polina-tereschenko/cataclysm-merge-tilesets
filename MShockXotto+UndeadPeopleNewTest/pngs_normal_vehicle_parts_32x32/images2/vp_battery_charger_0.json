@@ -1,0 +1,1 @@
+{"id": "vp_battery_charger", "fg": ["20978_vp_battery_charger_0"], "rotates": false, "multitile": true, "additional_tiles": [{"id": "broken", "fg": ["20979_vp_battery_charger_1"], "bg": []}], "bg": []}

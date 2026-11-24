@@ -1,0 +1,1 @@
+{"id": "vp_frame_wood_handle", "fg": ["10157_vp_frame_wood_handle_0"], "rotates": true, "multitile": true, "additional_tiles": [{"id": "broken", "fg": ["9670_vp_halfboard_cover_right_4"], "bg": ["10157_vp_frame_wood_handle_0"]}], "bg": []}

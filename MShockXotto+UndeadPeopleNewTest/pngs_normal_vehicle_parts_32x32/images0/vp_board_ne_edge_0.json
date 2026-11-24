@@ -1,0 +1,1 @@
+{"id": "vp_board_ne_edge", "fg": ["20124_vp_board_ne_edge_0"], "rotates": true, "multitile": true, "additional_tiles": [{"id": "broken", "fg": ["20125_vp_board_ne_edge_1"], "bg": []}], "bg": []}

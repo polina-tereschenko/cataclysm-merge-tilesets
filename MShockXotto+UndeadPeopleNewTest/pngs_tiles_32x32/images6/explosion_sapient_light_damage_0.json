@@ -1,0 +1,1 @@
+{"id": "explosion_sapient_light_damage", "fg": ["5891_explosion_sapient_light_damage_0"], "multitile": true, "additional_tiles": [{"id": "corner", "fg": ["5890_explosion_sapient_light_damage_1"], "bg": []}, {"id": "edge", "fg": ["5891_explosion_sapient_light_damage_0"], "bg": []}], "bg": []}

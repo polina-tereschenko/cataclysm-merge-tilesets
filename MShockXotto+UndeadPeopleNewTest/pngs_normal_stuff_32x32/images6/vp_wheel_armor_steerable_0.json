@@ -1,0 +1,1 @@
+{"id": "vp_wheel_armor_steerable", "fg": ["13158_vp_metal_wheel_3"], "rotates": true, "multitile": true, "additional_tiles": [{"id": "broken", "fg": ["13159_vp_wheel_armor_steerable_1"], "bg": []}], "bg": []}

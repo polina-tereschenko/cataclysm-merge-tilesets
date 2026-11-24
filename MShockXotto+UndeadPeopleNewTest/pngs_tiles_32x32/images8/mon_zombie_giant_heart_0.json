@@ -1,0 +1,1 @@
+{"id": "mon_zombie_giant_heart", "animated": true, "fg": [{"weight": 15, "sprite": "6719_mon_zombie_giant_heart_0"}, {"weight": 15, "sprite": "6720_mon_zombie_giant_heart_1"}, {"weight": 15, "sprite": "6719_mon_zombie_giant_heart_0"}, {"weight": 15, "sprite": "6721_mon_zombie_giant_heart_2"}], "rotates": false, "bg": ["6201_player_female_1"]}

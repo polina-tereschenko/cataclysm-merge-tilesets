@@ -1,0 +1,1 @@
+{"id": "mon_zombie_electric", "fg": [{"weight": 10, "sprite": "22187_mon_zombie_electric_0"}, {"weight": 10, "sprite": "22188_mon_zombie_electric_1"}, {"weight": 10, "sprite": "22189_mon_zombie_electric_2"}, {"weight": 10, "sprite": "22190_mon_zombie_electric_3"}], "bg": ["21433_mon_spawn_raptor_dusted_1"], "animated": true, "rotates": false}

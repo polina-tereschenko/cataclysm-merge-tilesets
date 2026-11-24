@@ -1,0 +1,1 @@
+{"id": ["vp_wheel", "vp_wheel_steerable"], "fg": ["10046_vp_wheel_0"], "multitile": true, "additional_tiles": [{"id": "broken", "fg": ["9670_vp_halfboard_cover_right_4"], "bg": ["10046_vp_wheel_0"]}], "bg": []}

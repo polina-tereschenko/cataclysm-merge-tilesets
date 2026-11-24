@@ -1,0 +1,1 @@
+{"id": "vp_frame_cross_unconnected", "fg": ["9808_vp_frame_cross_unconnected_0"], "//": ["frame_cross_unconnected_rotW", "frame_cross_unconnected_rotS", "frame_cross_unconnected_rotE"], "rotates": true, "multitile": true, "additional_tiles": [{"id": "broken", "fg": ["9670_vp_halfboard_cover_right_4"], "bg": ["9808_vp_frame_cross_unconnected_0"]}], "bg": []}

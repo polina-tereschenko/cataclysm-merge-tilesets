@@ -1,0 +1,1 @@
+{"id": "mon_zombie_lashing", "fg": [{"weight": 3, "sprite": "10113_mon_zombie_lashing_0"}, {"weight": 3, "sprite": "10114_mon_zombie_lashing_1"}, {"weight": 3, "sprite": "10115_mon_zombie_lashing_2"}, {"weight": 3, "sprite": "10116_mon_zombie_lashing_3"}], "bg": ["11092_bot_dispatch_1"], "rotates": false}

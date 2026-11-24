@@ -1,0 +1,153 @@
+[
+    {
+        "pixelscale": 1,
+        "width": 32,
+        "height": 32,
+        "zlevel_height": 0,
+        "iso": false,
+        "retract_dist_min": -1.0,
+        "retract_dist_max": 1.0
+    },
+    {
+        "tiles.png": {
+            "//": "indices 0 to 10207"
+        }
+    },
+    {
+        "overmap.png": {
+            "//": "indices 10208 to 11023"
+        }
+    },
+    {
+        "overmap_tall.png": {
+            "//": "indices 11024 to 11055",
+            "sprite_offset_x": 0,
+            "sprite_offset_y": -16,
+            "sprite_width": 32,
+            "sprite_height": 48
+        }
+    },
+    {
+        "small.png": {
+            "//": "indices 11056 to 12783",
+            "sprite_offset_x": 6,
+            "sprite_offset_y": 0,
+            "sprite_width": 20,
+            "sprite_height": 20
+        }
+    },
+    {
+        "wide.png": {
+            "//": "indices 12784 to 12879",
+            "sprite_offset_x": -16,
+            "sprite_offset_y": -16,
+            "sprite_width": 48,
+            "sprite_height": 48
+        }
+    },
+    {
+        "widecenter.png": {
+            "//": "indices 12880 to 12895",
+            "sprite_offset_x": -8,
+            "sprite_offset_y": -16,
+            "sprite_width": 48,
+            "sprite_height": 48
+        }
+    },
+    {
+        "tall.png": {
+            "//": "indices 12896 to 13519",
+            "sprite_offset_x": 0,
+            "sprite_offset_y": -16,
+            "sprite_width": 32,
+            "sprite_height": 48
+        }
+    },
+    {
+        "taller.png": {
+            "//": "indices 13520 to 13551",
+            "sprite_offset_x": 0,
+            "sprite_offset_y": -32,
+            "sprite_width": 32,
+            "sprite_height": 64
+        }
+    },
+    {
+        "large.png": {
+            "//": "indices 13552 to 13871",
+            "sprite_offset_x": -16,
+            "sprite_offset_y": -48,
+            "sprite_width": 64,
+            "sprite_height": 80
+        }
+    },
+    {
+        "big.png": {
+            "//": "indices 13872 to 13887",
+            "sprite_offset_x": -48,
+            "sprite_offset_y": -32,
+            "sprite_width": 80,
+            "sprite_height": 64
+        }
+    },
+    {
+        "huge.png": {
+            "//": "indices 13888 to 13919",
+            "sprite_offset_x": -64,
+            "sprite_offset_y": -96,
+            "sprite_width": 128,
+            "sprite_height": 128
+        }
+    },
+    {
+        "dcss.png": {
+            "//": "indices 13920 to 13935"
+        }
+    },
+    {
+        "dcssTall.png": {
+            "//": "indices 13936 to 13951",
+            "sprite_offset_x": 0,
+            "sprite_offset_y": -16,
+            "sprite_width": 32,
+            "sprite_height": 48
+        }
+    },
+    {
+        "fillersmall.png": {
+            "//": "indices 13952 to 13983",
+            "sprite_offset_x": 0,
+            "sprite_offset_y": 0,
+            "sprite_width": 20,
+            "sprite_height": 20
+        }
+    },
+    {
+        "fillerlarge.png": {
+            "//": "indices 13984 to 13999",
+            "sprite_offset_x": -16,
+            "sprite_offset_y": -32,
+            "sprite_width": 64,
+            "sprite_height": 64
+        }
+    },
+    {
+        "fillernormal.png": {
+            "//": "indices 14000 to 14031"
+        }
+    },
+    {
+        "fillertall.png": {
+            "//": "indices 14032 to 14047",
+            "sprite_offset_x": 0,
+            "sprite_offset_y": -32,
+            "sprite_width": 32,
+            "sprite_height": 64
+        }
+    },
+    {
+        "fallback.png": {
+            "fallback": true
+        }
+    }
+]

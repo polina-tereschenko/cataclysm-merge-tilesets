@@ -1,0 +1,1 @@
+{"id": "mon_zombie_pupa", "fg": [{"weight": 25, "sprite": "9876_mon_zombie_medical_pupa_0"}, {"weight": 25, "sprite": "9877_mon_zombie_medical_pupa_1"}, {"weight": 25, "sprite": "9878_mon_zombie_medical_pupa_2"}, {"weight": 25, "sprite": "9879_mon_zombie_medical_pupa_3"}], "bg": ["11092_bot_dispatch_1"], "rotates": false, "animated": true}

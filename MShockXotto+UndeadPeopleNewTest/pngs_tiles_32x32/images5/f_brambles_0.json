@@ -1,0 +1,1 @@
+{"id": "f_brambles", "fg": ["3060_f_brambles_0"], "rotates": true, "multitile": true, "additional_tiles": [{"id": "unconnected", "fg": ["3060_f_brambles_0"], "bg": []}, {"id": "corner", "fg": ["3057_f_brambles_1"], "bg": []}, {"id": "edge", "fg": ["3058_f_brambles_2"], "bg": []}, {"id": "end_piece", "fg": ["3059_f_brambles_3"], "bg": []}], "bg": []}

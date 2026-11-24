@@ -1,0 +1,1 @@
+{"id": "vp_wooden_aisle_vertical", "fg": ["9942_vp_veh_table_1", "9941_vp_veh_table_2"], "rotates": true, "multitile": true, "additional_tiles": [{"id": "broken", "fg": ["9670_vp_halfboard_cover_right_4"], "bg": ["9942_vp_veh_table_1", "9941_vp_veh_table_2"]}], "bg": []}

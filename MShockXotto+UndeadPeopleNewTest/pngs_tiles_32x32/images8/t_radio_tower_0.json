@@ -1,0 +1,1 @@
+{"id": "t_radio_tower", "fg": ["7022_t_radio_tower_0"], "bg": ["7918_t_chainfence_1"], "multitile": true, "additional_tiles": [{"id": "center", "fg": ["7023_t_radio_tower_2"], "bg": ["7918_t_chainfence_1"]}]}

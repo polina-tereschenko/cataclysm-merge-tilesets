@@ -1,0 +1,1 @@
+{"id": "vp_trunk", "fg": ["21147_vp_crane_tiny_2"], "rotates": true, "multitile": true, "additional_tiles": [{"id": "broken", "fg": ["21148_vp_trunk_1"], "bg": []}], "bg": []}

@@ -1,0 +1,1 @@
+{"id": "vp_xlframe_sw", "fg": ["9880_vp_xlframe_sw_0"], "//": ["xlframe_sw_rotW", "xlframe_sw_rotS", "xlframe_sw_rotE"], "rotates": true, "multitile": true, "additional_tiles": [{"id": "broken", "fg": ["9670_vp_halfboard_cover_right_4"], "bg": ["9880_vp_xlframe_sw_0"]}], "bg": []}

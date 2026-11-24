@@ -1,0 +1,1 @@
+{"id": ["vp_mounted_bigun", "vp_mounted_m134"], "//": "multibarrel weapons", "fg": ["10039_vp_mounted_browning_0"], "bg": ["10038_vp_mounted_browning_1"], "multitile": true, "additional_tiles": [{"id": "broken", "fg": ["9670_vp_halfboard_cover_right_4"], "bg": ["10039_vp_mounted_browning_0"]}]}

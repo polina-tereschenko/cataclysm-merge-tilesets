@@ -1,0 +1,1 @@
+{"id": "vp_cargo_bag", "fg": ["20986_vp_cargo_bag_0"], "multitile": true, "additional_tiles": [{"id": "broken", "fg": ["20987_vp_cargo_bag_1"], "bg": ["20986_vp_cargo_bag_0"]}], "bg": []}

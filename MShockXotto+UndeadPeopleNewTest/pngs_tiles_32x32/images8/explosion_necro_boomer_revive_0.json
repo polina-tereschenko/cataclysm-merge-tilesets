@@ -1,0 +1,1 @@
+{"id": "explosion_necro_boomer_revive", "fg": ["6926_explosion_necro_boomer_revive_0"], "multitile": true, "additional_tiles": [{"id": "corner", "fg": ["6925_explosion_necro_boomer_revive_1"], "bg": []}, {"id": "edge", "fg": ["6926_explosion_necro_boomer_revive_0"], "bg": []}], "bg": []}

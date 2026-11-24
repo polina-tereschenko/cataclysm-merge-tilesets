@@ -1,0 +1,1 @@
+{"id": "mon_wasp_guard", "fg": [{"weight": 10, "sprite": "9045_mon_wasp_guard_0"}, {"weight": 10, "sprite": "9046_mon_wasp_guard_1"}, {"weight": 10, "sprite": "9047_mon_wasp_guard_2"}, {"weight": 10, "sprite": "9048_mon_wasp_guard_3"}], "bg": ["11092_bot_dispatch_1"], "animated": true}

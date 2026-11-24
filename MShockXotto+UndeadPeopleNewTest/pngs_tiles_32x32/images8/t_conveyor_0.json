@@ -1,0 +1,1 @@
+{"id": "t_conveyor", "fg": ["6954_t_conveyor_0"], "bg": ["7091_t_atm_1"], "rotates": false, "multitile": true, "additional_tiles": [{"id": "edge", "fg": ["6954_t_conveyor_0"], "bg": []}, {"id": "end_piece", "fg": ["6954_t_conveyor_0"], "bg": []}, {"id": "corner", "fg": ["6955_t_conveyor_2"], "bg": []}, {"id": "t_connection", "fg": ["6956_t_conveyor_3"], "bg": []}]}

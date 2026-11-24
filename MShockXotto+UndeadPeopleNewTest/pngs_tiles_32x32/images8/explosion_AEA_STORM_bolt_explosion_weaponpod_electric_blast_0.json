@@ -1,0 +1,1 @@
+{"id": ["explosion_AEA_STORM_bolt", "explosion_weaponpod_electric_blast"], "fg": ["6916_explosion_AEA_STORM_bolt_0"], "multitile": true, "additional_tiles": [{"id": "corner", "fg": ["6915_explosion_AEA_STORM_bolt_1"], "bg": []}, {"id": "edge", "fg": ["6916_explosion_AEA_STORM_bolt_0"], "bg": []}], "bg": []}

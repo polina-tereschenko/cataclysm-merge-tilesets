@@ -1,0 +1,1 @@
+{"id": "vp_trunk", "fg": ["9666_vp_trunk_0"], "rotates": true, "multitile": true, "additional_tiles": [{"id": "broken", "fg": ["9670_vp_halfboard_cover_right_4"], "bg": ["9666_vp_trunk_0"]}], "bg": []}

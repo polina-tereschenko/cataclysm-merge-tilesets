@@ -1,0 +1,1 @@
+{"id": "vp_hdstowboard_vertical", "fg": ["9591_vp_hdstowboard_vertical_left_1"], "rotates": true, "multitile": true, "additional_tiles": [{"id": "broken", "fg": ["9670_vp_halfboard_cover_right_4"], "bg": ["9591_vp_hdstowboard_vertical_left_1"]}], "bg": []}

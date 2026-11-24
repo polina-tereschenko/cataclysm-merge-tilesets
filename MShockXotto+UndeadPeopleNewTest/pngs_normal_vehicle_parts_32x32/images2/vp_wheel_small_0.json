@@ -1,0 +1,1 @@
+{"id": "vp_wheel_small", "fg": ["21289_vp_wheel_small_0", "21290_vp_wheel_small_1", "21291_vp_wheel_small_2", "21292_vp_wheel_small_3"], "rotates": true, "multitile": true, "additional_tiles": [{"id": "broken", "fg": ["21285_vp_wheel_small_4", "21286_vp_wheel_small_5", "21287_vp_wheel_small_6", "21288_vp_wheel_small_7"], "bg": []}], "bg": []}

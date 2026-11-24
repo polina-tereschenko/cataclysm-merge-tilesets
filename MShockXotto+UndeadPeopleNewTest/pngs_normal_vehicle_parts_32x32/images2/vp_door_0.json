@@ -1,0 +1,1 @@
+{"id": "vp_door", "fg": ["20995_vp_door_0"], "rotates": true, "multitile": true, "additional_tiles": [{"id": "broken", "fg": ["20996_vp_door_1"], "bg": []}, {"id": "open", "fg": ["20997_vp_door_2"], "bg": ["11041_bg_car_0"]}], "bg": []}

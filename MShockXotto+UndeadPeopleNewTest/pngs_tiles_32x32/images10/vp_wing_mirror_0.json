@@ -1,0 +1,1 @@
+{"id": "vp_wing_mirror", "fg": ["9389_vp_wing_mirror_0"], "rotates": true, "multitile": true, "additional_tiles": [{"id": "broken", "fg": ["9670_vp_halfboard_cover_right_4"], "bg": ["9389_vp_wing_mirror_0"]}], "bg": []}

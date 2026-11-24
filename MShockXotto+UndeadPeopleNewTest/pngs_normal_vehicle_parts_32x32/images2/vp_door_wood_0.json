@@ -1,0 +1,1 @@
+{"id": "vp_door_wood", "fg": ["21038_vp_door_wood_0"], "bg": ["11047_bg_car_wood_0"], "multitile": true, "additional_tiles": [{"id": "open", "fg": ["21040_vp_door_wood_2"], "bg": ["11047_bg_car_wood_0"]}, {"id": "broken", "fg": ["21039_vp_door_wood_3"], "bg": ["11047_bg_car_wood_0"]}]}

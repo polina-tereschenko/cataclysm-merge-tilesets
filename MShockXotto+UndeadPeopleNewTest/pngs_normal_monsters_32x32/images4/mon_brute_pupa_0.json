@@ -1,0 +1,1 @@
+{"id": "mon_brute_pupa", "fg": [{"weight": 25, "sprite": "9867_mon_brute_pupa_0"}, {"weight": 25, "sprite": "9868_mon_brute_pupa_1"}, {"weight": 25, "sprite": "9869_mon_brute_pupa_2"}, {"weight": 25, "sprite": "9870_mon_brute_pupa_3"}], "bg": ["11092_bot_dispatch_1"], "rotates": false, "animated": true}

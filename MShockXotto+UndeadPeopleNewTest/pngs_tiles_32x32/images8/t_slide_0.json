@@ -1,0 +1,1 @@
+{"id": "t_slide", "fg": ["7053_t_slide_0"], "bg": ["7607_t_mushroom_patch_1"], "rotates": false, "multitile": true, "additional_tiles": [{"id": "edge", "fg": ["7053_t_slide_0"], "bg": ["7607_t_mushroom_patch_1"]}, {"id": "end_piece", "fg": ["7054_t_slide_2"], "bg": ["7607_t_mushroom_patch_1"]}]}

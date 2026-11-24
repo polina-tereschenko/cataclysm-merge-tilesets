@@ -1,0 +1,1 @@
+{"id": "vp_seat_back", "fg": ["10006_vp_seat_back_0", "9985_vp_seat_back_1", "9984_vp_seat_back_2", "10007_vp_seat_back_3"], "rotates": true, "multitile": true, "additional_tiles": [{"id": "broken", "fg": ["9670_vp_halfboard_cover_right_4"], "bg": ["10006_vp_seat_back_0", "9985_vp_seat_back_1", "9984_vp_seat_back_2", "10007_vp_seat_back_3"]}], "bg": []}

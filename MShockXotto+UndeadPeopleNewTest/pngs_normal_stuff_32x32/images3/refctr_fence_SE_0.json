@@ -1,0 +1,1 @@
+{"id": "refctr_fence_SE", "fg": ["12246_refctr_fence_NW_2", "12247_refctr_fence_NW_3", "12244_refctr_fence_NW_0", "12245_refctr_fence_NW_1"], "bg": [{"weight": 1, "sprite": "12240_refctr_field_0"}, {"weight": 1, "sprite": "12241_refctr_field_1"}, {"weight": 1, "sprite": "12242_refctr_field_2"}, {"weight": 1, "sprite": "12243_refctr_field_3"}], "rotates": true}

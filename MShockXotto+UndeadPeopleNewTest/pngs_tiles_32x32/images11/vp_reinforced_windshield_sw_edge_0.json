@@ -1,0 +1,1 @@
+{"id": "vp_reinforced_windshield_sw_edge", "fg": ["10154_vp_reinforced_windshield_sw_edge_0"], "rotates": true, "multitile": true, "additional_tiles": [{"id": "broken", "fg": ["9670_vp_halfboard_cover_right_4"], "bg": ["10154_vp_reinforced_windshield_sw_edge_0"]}], "bg": []}

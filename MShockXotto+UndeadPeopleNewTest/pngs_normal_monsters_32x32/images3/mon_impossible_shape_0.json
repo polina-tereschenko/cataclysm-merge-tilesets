@@ -1,0 +1,1 @@
+{"id": "mon_impossible_shape", "fg": [{"weight": 10, "sprite": "9386_mon_impossible_shape_0"}, {"weight": 10, "sprite": "9387_mon_impossible_shape_1"}, {"weight": 10, "sprite": "9388_mon_impossible_shape_2"}], "bg": ["11092_bot_dispatch_1"], "animated": true, "rotates": false}

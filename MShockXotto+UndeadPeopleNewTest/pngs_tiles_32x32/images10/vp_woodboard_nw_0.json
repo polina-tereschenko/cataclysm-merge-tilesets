@@ -1,0 +1,1 @@
+{"id": "vp_woodboard_nw", "fg": ["9623_vp_woodboard_nw_0", "9626_vp_woodboard_nw_1", "9625_vp_woodboard_nw_2", "9624_vp_woodboard_nw_3"], "rotates": true, "multitile": true, "additional_tiles": [{"id": "broken", "fg": ["9670_vp_halfboard_cover_right_4"], "bg": ["9623_vp_woodboard_nw_0", "9626_vp_woodboard_nw_1", "9625_vp_woodboard_nw_2", "9624_vp_woodboard_nw_3"]}], "bg": []}

@@ -1,0 +1,1 @@
+{"id": "vp_frame_handle", "fg": ["13504_vp_frame_handle_0", "13503_vp_frame_handle_1", "13505_vp_frame_handle_2", "13506_vp_frame_handle_3"], "multitile": true, "additional_tiles": [{"id": "broken", "fg": ["9670_vp_halfboard_cover_right_4"], "bg": ["13504_vp_frame_handle_0", "13503_vp_frame_handle_1", "13505_vp_frame_handle_2", "13506_vp_frame_handle_3"]}], "bg": []}

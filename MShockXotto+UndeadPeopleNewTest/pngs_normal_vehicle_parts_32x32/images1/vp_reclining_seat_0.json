@@ -1,0 +1,1 @@
+{"id": "vp_reclining_seat", "fg": ["20693_vp_reclining_seat_0"], "bg": ["11041_bg_car_0"], "rotates": true, "multitile": true, "additional_tiles": [{"id": "broken", "fg": ["20694_vp_reclining_seat_2"], "bg": ["11041_bg_car_0"]}]}

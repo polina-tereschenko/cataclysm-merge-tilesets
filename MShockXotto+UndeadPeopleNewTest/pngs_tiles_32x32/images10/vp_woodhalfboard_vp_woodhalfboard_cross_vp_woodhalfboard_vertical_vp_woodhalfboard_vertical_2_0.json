@@ -1,0 +1,1 @@
+{"id": ["vp_woodhalfboard", "vp_woodhalfboard_cross", "vp_woodhalfboard_vertical", "vp_woodhalfboard_vertical_2"], "fg": ["9632_vp_woodhalfboard_0"], "multitile": true, "additional_tiles": [{"id": "broken", "fg": ["9670_vp_halfboard_cover_right_4"], "bg": ["9632_vp_woodhalfboard_0"]}], "bg": []}

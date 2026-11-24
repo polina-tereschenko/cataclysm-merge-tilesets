@@ -1,0 +1,1 @@
+{"id": "vp_stowboard_horizontal_rear", "fg": ["20300_vp_stowboard_horizontal_rear_0"], "rotates": true, "multitile": true, "additional_tiles": [{"id": "broken", "fg": ["20301_vp_stowboard_horizontal_rear_1"], "bg": ["20300_vp_stowboard_horizontal_rear_0"]}], "bg": []}

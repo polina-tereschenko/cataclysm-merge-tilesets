@@ -1,0 +1,1 @@
+{"id": "vp_recharge_station", "fg": ["20620_vp_recharge_station_0"], "bg": ["11041_bg_car_0"], "rotates": false, "multitile": true, "additional_tiles": [{"id": "broken", "fg": ["20621_vp_recharge_station_2"], "bg": ["20620_vp_recharge_station_0", "8336_overlay_wielded_recharge_station_0"]}]}

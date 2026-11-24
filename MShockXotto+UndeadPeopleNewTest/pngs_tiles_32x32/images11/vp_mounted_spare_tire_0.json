@@ -1,0 +1,1 @@
+{"id": "vp_mounted_spare_tire", "fg": ["10045_vp_mounted_spare_tire_0"], "multitile": true, "additional_tiles": [{"id": "broken", "fg": ["9670_vp_halfboard_cover_right_4"], "bg": ["10045_vp_mounted_spare_tire_0"]}], "bg": []}

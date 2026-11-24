@@ -1,0 +1,1 @@
+{"id": "vp_floodlight", "fg": ["20569_vp_floodlight_0"], "bg": ["11041_bg_car_0"], "rotates": true, "multitile": true, "additional_tiles": [{"id": "broken", "fg": ["20570_vp_floodlight_2"], "bg": []}]}

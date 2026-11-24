@@ -1,0 +1,1 @@
+{"id": "explosion_fog_machine", "fg": ["6923_explosion_fog_machine_0"], "multitile": true, "additional_tiles": [{"id": "corner", "fg": ["2537_fd_smoke_2"], "bg": []}, {"id": "edge", "fg": ["6923_explosion_fog_machine_0"], "bg": []}], "bg": []}

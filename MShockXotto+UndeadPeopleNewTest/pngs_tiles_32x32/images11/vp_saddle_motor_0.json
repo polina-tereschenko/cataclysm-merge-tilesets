@@ -1,0 +1,1 @@
+{"id": "vp_saddle_motor", "fg": ["9896_vp_saddle_motor_0", "9895_vp_saddle_motor_1", "9897_vp_saddle_motor_2", "9898_vp_saddle_motor_3"], "multitile": true, "additional_tiles": [{"id": "broken", "fg": ["9670_vp_halfboard_cover_right_4"], "bg": ["9896_vp_saddle_motor_0", "9895_vp_saddle_motor_1", "9897_vp_saddle_motor_2", "9898_vp_saddle_motor_3"]}], "bg": []}

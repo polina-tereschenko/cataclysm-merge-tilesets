@@ -1,0 +1,1 @@
+{"id": ["vp_forklift_fork", "vp_forklift_fork_horizontal_front"], "fg": ["9945_vp_forklift_fork_0", "9947_vp_forklift_fork_1", "9946_vp_forklift_fork_2", "9944_vp_forklift_fork_3"], "rotates": true, "multitile": true, "additional_tiles": [{"id": "broken", "fg": ["9670_vp_halfboard_cover_right_4"], "bg": ["9943_vp_forklift_fork_5"]}], "bg": []}

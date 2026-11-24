@@ -1,0 +1,1 @@
+{"id": "vp_kitchen_unit", "fg": ["20593_vp_kitchen_unit_0"], "bg": ["11041_bg_car_0"], "rotates": false, "multitile": true, "additional_tiles": [{"id": "broken", "fg": ["20594_vp_kitchen_unit_2"], "bg": ["20593_vp_kitchen_unit_0", "8311_kitchen_unit_0"]}]}
